@@ -1,17 +1,43 @@
-# lab1
+# Лабораторна робота №1
 
-A new Flutter project.
+## Завдання
 
-## Getting Started
+1. Створити у обраному середовищі розробки проєкт з ім'ям `Lab1`.
+2. Написати вихідний текст програми згідно з варіантом завдання.
+3. Скомпілювати вихідний текст і отримати виконуваний файл програми.
+4. Перевірити роботу програми та за потреби налагодити її.
+5. Проаналізувати й прокоментувати результати та вихідний текст програми.
 
-This project is a starting point for a Flutter application.
+## Завдання Згідно З Варіантом
 
-A few resources to get you started if this is your first Flutter project:
+Для всіх варіантів необхідно створити два пункти меню: «Робота1» та «Робота2».
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+### Робота1
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+При натисканні «Робота1» відкривається діалогове вікно для введення тексту. Воно має
+стрічку введення (`Edit Control`) та дві кнопки: «Так» і «Відміна».
+
+Якщо ввести рядок тексту й натиснути «Так», у головному вікні повинен відображатися
+введений текст.
+
+### Робота2
+
+При натисканні «Робота2» відкривається діалогове вікно з горизонтальним повзунком
+(`Horizontal Scroll Bar`) та двома кнопками: «Так» і «Відміна».
+
+Рухаючи повзунок, користувач вводить число в діапазоні від 1 до 100. Після натискання
+кнопки «Так» вибране число відображається в головному вікні.
+
+## Запуск
+
+```sh
+flutter pub get
+flutter run
+```
+
+## Перевірка
+
+```sh
+flutter analyze
+flutter test
+```

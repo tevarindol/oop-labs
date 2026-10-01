@@ -1,0 +1,3 @@
+[submodule "lab2"]
+	path = lab2
+	url = https://github.com/tevarindol/paint.git

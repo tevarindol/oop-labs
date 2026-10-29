@@ -6,5 +6,5 @@
 | 2 | Розробка графічного редактора об’єктів | 3 жовтня | [Проєкт](https://github.com/tevarindol/paint/tree/release/lab2) | [Звіт](./reports/lab2/Lab2_IM55_Steblevets.docx) |
 | 3 | Розробка інтерфейсу користувача | 10 жовтня | [Проєкт](https://github.com/tevarindol/paint/tree/release/lab3) | [Звіт](./reports/lab3/Lab3_IM55_Steblevets.pdf) |
 | 4 | Вдосконалення структури коду графічного редактора об’єктів | 24 жовтня | [Проєкт](https://github.com/tevarindol/paint/tree/release/lab4) | [Звіт](./reports/lab4/Lab4_IM55_Steblevets.pdf) |
-| 5 | Розробка багатовіконного інтерфейсу користувача для графічного редактора об’єктів | 7 листопада |  |
+| 5 | Розробка багатовіконного інтерфейсу користувача для графічного редактора об’єктів | 7 листопада | [Проєкт](https://github.com/tevarindol/paint/tree/release/lab5) | [Звіт](./reports/lab4/Lab5_IM55_Steblevets.pdf) |
 | 6 | Побудування програмної системи з множини об’єктів, керованих повідомленнями | 21 листопада |  |
